@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dfortch</groupId>
-    <artifactId>messages-app</artifactId>
+    <artifactId>platzi-messages-app</artifactId>
     <version>1.0</version>
 
     <properties>
